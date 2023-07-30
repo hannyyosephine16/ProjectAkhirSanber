@@ -1,2 +1,1 @@
-# ProjectAkhirSanber
-Klinik del
+# Klinik
